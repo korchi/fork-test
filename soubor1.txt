@@ -1,5 +1,6 @@
 Ahoj, toto je prvni Karluv prispevek.
-Martinuv prvni radek.
+Martinuv prvni radek -- ale na druhem radku.
+Druhy Korciho radek -- ale na tretim radku.
 
 
 Odsazeny radek.
